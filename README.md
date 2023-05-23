@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E4F724&width=435&lines=Hello+World!+I%C2%B4m+Samuel+Sena%2C+Software+engineer)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&duration=4500&pause=1000&width=435&lines=Hello+World!+I%C2%B4m+Samuel+Sena%2C+Software+Engeneer)](https://git.io/typing-svg)
 
 ### 🌐 Socials:
 <div> 
