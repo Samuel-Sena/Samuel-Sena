@@ -11,7 +11,8 @@
   <img title="Node.js" height="45px" src="https://www.itnetwork.sk/images/10733/nodejs/nodejs_logo.png" />
   <img title="MySQL" height="45px" src="https://play-lh.googleusercontent.com/F0Em-ga_FGii0QldqHlADIE9GYnR3HBG0UxzrxI2UbSaFKYqXcO3h0ndLh83dMEvEg" />
   <img title="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img title="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img title="Java" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+  <img title="JavaScript" height="40" width="50" src="https://i.stack.imgur.com/Lqh07.png">
   <img title="VScode" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 </div>
 
