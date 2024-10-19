@@ -8,12 +8,15 @@
 
 ### 💻 Tech Stack:
 <div style="display: inline_block"><br>
-  <img title="Node.js" height="45px" src="https://www.itnetwork.sk/images/10733/nodejs/nodejs_logo.png" />
+  <img title="React" height="45px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/react/react-original.svg" />
   <img title="MySQL" height="45px" src="https://play-lh.googleusercontent.com/F0Em-ga_FGii0QldqHlADIE9GYnR3HBG0UxzrxI2UbSaFKYqXcO3h0ndLh83dMEvEg" />
+  <img title="MongoDB" height="45px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mongodb/mongodb-original.svg" />
   <img title="Python" height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img title="Java" height="50px" width="50px" src="https://i.stack.imgur.com/Lqh07.png" />
+  <img title="Java" height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg" />
   <img title="JavaScript" height="40px" width="40px" src="https://www.purpleslate.com/wp-content/uploads/2017/05/480px-unofficial_javascript_logo_2-svg.png">
-  <img title="VScode" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+  <img title="Csharp" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/csharp/csharp-original.svg" />
+  <img title="Intellij" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/intellij/intellij-original.svg" />
+ 
 </div>
 
 ### 🌐 Socials:
